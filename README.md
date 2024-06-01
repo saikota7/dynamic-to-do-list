@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/saikota7/dynamic-to-do-list.git
 cd dynamic-to-do-list
 ```
 
@@ -59,10 +59,6 @@ Feel free to customize the application further by modifying the codebase accordi
 
 ## Credits
 
-This project was created by [Your Name]. If you have any questions or suggestions, please feel free to contact me at [Your Email].
+This project was created by K N Sai Krishna. If you have any questions or suggestions, please feel free to contact me at saikota.in@gmail.com.
 
 ---
-
-Replace `<repository-url>`, `[Your Name]`, and `[Your Email]` with appropriate values. Additionally, if you have any additional setup instructions specific to your backend server or any other configurations, you can include them in the README as well.
-
-This README provides a comprehensive guide for setting up, running, and using your dynamic to-do list application. Adjust it according to your project's specific requirements and preferences. If you have any questions or need further assistance, feel free to ask!
